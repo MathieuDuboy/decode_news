@@ -36,12 +36,10 @@ exceptiongroup==1.2.0
 fasteners==0.14.1
 Flask==3.0.3
 fonttools==4.29.1
-fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
 fs==2.4.12
 future==0.18.2
 gast==0.5.2
 git-cola==3.12.0
-Grammalecte-fr @ file:///tmp/grammalecte_yxtramkv/Grammalecte-fr-v2.1.1
 gunicorn==23.0.0
 gyp==0.1
 h11==0.14.0
@@ -102,7 +100,6 @@ pydantic==2.7.4
 pydantic_core==2.18.4
 Pygments==2.18.0
 PyGObject==3.42.0
-pygrammalecte @ git+https://github.com/vpoulailleau/pygrammalecte@a896c49e369381b0095c65c7aadc900251edfb36
 PyJWT==2.3.0
 pymacaroons==0.13.0
 PyNaCl==1.5.0
